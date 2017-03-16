@@ -1,0 +1,96 @@
+.txt{
+	font-family:Monotype Corsiva;
+	font-size:90px;
+	color:black;
+	
+}
+.txt2{
+	margin-left:50%;
+	color:black;
+	font-family:Monotype Corsiva;
+	font-size:150%;
+}
+.main_container{
+	background-image:url("r5.jpg");
+
+}
+.text_history{
+	font-size:20px;
+	color:gray;
+	font-family:Sans Serif;
+}
+.text{
+	color:black;
+}
+.gal{
+	color:black;
+	margin-top:20px;
+}
+.container3{
+	background: linear-gradient(white, #33ffff); /* Standard syntax (must be last) */
+	height:80%;
+	width:80%;
+	 color:black;
+	margin-left:10%;
+	margin-top:2%;
+	position:relative;
+	border-radius:5px;
+	border-style: double;
+	 font-family: "Times New Roman", Times, serif;
+	
+
+}
+
+
+div.picture1 {
+   width:100px; /*width of your image*/
+   height:100px; /*height of your image*/
+   background-image:url('logo.jpg');
+   margin:0; /* If you want no margin */
+   padding:0; /*if your want to padding */
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+	color:black;
+	
+}
+
+td, th {
+    
+    text-align: left;
+    padding: 8px;
+	font-family: "Times New Roman", Times, serif;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+	
+}
+.button {
+    background-color: #008CBA;
+    border: none;
+    color: black;
+    padding: 10px 22px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+	border-radius: 12px;
+	 font-family: "Times New Roman", Times, serif;
+}
+
+.search{
+	border:2px solid #456879;
+	border-radius:10px;
+	height: 25px;
+	width: 230px;
+
+	 font-family: "Times New Roman", Times, serif;
+}
+
+textarea {
+    resize: none;
+}
